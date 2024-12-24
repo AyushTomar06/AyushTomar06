@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushtomar06" alt="ayushtomar06" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 Front-end Developer**
 
 - 📫 How to reach me **ayushgurjar110@gmail.com**
 
